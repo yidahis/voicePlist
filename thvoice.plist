@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://192.168.0.192/images/f3000</string>
+                   <string>http://192.168.0.192:3000/images/f3000</string>
                </dict>
       <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://192.168.0.192/images/f3000</string>
+                   <string>http://192.168.0.192:3000/images/f3000</string>
                </dict>
            </array>
            <key>metadata</key>
